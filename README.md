@@ -1,9 +1,30 @@
-I have created a USD viewer app to stream Schneider's 3D scene, you can either use it or create one from scratch by following thee guidelines below.
-If you wan to use the USD viewer app I have created clone this repo: https://github.com/Hantz509/kit-app-template/tree/Schneider-USD-viewer-app
+Schneider USD Viewer App
+I have created a USD viewer app to stream Schneider's 3D scene. You can either use the pre-built app or create one from scratch by following the guidelines below.
+Option 1: Use the Pre-built USD Viewer App
+If you want to use the USD viewer app I have created:
+
+Clone this repository: git clone -b Schneider-USD-viewer-app https://github.com/Hantz509/kit-app-template.git
+
+Navigate to the directory: cd kit-app-template
+Build the application: repo.bat build
+Wait for the build to complete successfully. you will see: BUILD (RELEASE) SUCCEEDED
+
+Launch the application: repo.bat launch
+
+Select the streaming viewer:
+
+Choose: my_company.my_usd_viewer09_15_streaming.kit
+
+
+Wait for initialization:
+
+Wait until you see: app ready
+Note: Initial startup may take 5-8 minutes for shader compilation
 
 
 
-
+Option 2: Build from Scratch
+If you want to build it from scratch, follow these instructions below:
 
 # Omniverse Kit App Template
 
