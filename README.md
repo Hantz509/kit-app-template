@@ -1,3 +1,10 @@
+I have created a USD viewer app to stream Schneider's 3D scene, you can either use it or create one from scratch by following thee guidelines below.
+If you wan to use the USD viewer app I have created clone this repo: 
+
+
+
+
+
 # Omniverse Kit App Template
 
 <p align="center">
