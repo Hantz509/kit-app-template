@@ -21,6 +21,7 @@ Wait for initialization:
 Wait until you see: app ready
 Note: Initial startup may take 5-8 minutes for shader compilation
 
+After launching the USD viewer app you need web app to visualize it through a web browser: clone this repo: 
 
 
 Option 2: Build from Scratch
