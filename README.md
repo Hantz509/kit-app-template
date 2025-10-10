@@ -1,5 +1,5 @@
 I have created a USD viewer app to stream Schneider's 3D scene, you can either use it or create one from scratch by following thee guidelines below.
-If you wan to use the USD viewer app I have created clone this repo: 
+If you wan to use the USD viewer app I have created clone this repo: https://github.com/Hantz509/kit-app-template/tree/Schneider-USD-viewer-app
 
 
 
