@@ -3,8 +3,10 @@ I have created a USD viewer app to stream Schneider's 3D scene. You can either u
 Option 1: Use the Pre-built USD Viewer App
 If you want to use the USD viewer app I have created:
 
-copy, paste: git clone -b Schneider-USD-viewer-app https://github.com/Hantz509/kit-app-template.git
-
+copy, paste: 
+```bash
+git clone -b Schneider-USD-viewer-app https://github.com/Hantz509/kit-app-template.git
+```
 Navigate to the directory: cd kit-app-template
 Build the application: repo.bat build
 Wait for the build to complete successfully. you will see: BUILD (RELEASE) SUCCEEDED
