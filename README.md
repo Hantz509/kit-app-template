@@ -8,7 +8,16 @@ copy, paste:
 git clone -b Schneider-USD-viewer-app https://github.com/Hantz509/kit-app-template.git
 ```
 Navigate to the directory: cd kit-app-template
-Build the application: repo.bat build
+Build the application: 
+```bash
+repo.bat build
+```
+See an error?
+Do this:
+```bash
+rmdir /s /q _repo
+rmdir /s /q _build
+```
 Wait for the build to complete successfully. you will see: BUILD (RELEASE) SUCCEEDED
 
 Launch the application: repo.bat launch
