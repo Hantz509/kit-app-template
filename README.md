@@ -17,6 +17,7 @@ Do this:
 ```bash
 rmdir /s /q _repo
 rmdir /s /q _build
+repo.bat build
 ```
 Wait for the build to complete successfully. you will see: BUILD (RELEASE) SUCCEEDED
 
